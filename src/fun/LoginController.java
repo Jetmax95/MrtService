@@ -1,6 +1,6 @@
 package fun;
 
-public class Controller {
+public class LoginController {
 
     public void textFieldClickedOnLogin(){
         System.out.println("This works");

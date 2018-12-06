@@ -1,4 +1,16 @@
+.root{
+    -fx-background-color: black;
+    -fx-background-image: url("../images/themart.jpg");
+    -fx-background-position: left top, center;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover, auto;
+}
+
+#loginPanel{
+    -fx-background-color: white;
+    width: 500;
+}
+
 .loginTextFields{
-    -fx-font: monospace;
     -fx-font-size: 20;
 }
